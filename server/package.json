@@ -1,0 +1,17 @@
+{
+  "name": "hiring_task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.14.1",
+    "dotenv": "^16.4.5",
+    "openai": "^4.52.3",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  },
+  "scripts": {
+    "start-openai": "node server.js",
+    "start-gemini": "node server-gemini.js"
+  }
+}
