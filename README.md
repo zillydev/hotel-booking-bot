@@ -26,8 +26,8 @@ This project is a conversational AI chatbot built to assist users with hotel boo
 
 ```bash
 yarn install
-yarn start-openai // for openai api
-yarn start-gemini // for gemini api
+yarn start-openai # for openai api
+yarn start-gemini # for gemini api
 ```
 
 4. In the `frontend` directory, run the following commands:
