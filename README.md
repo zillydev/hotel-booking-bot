@@ -10,11 +10,8 @@ This project is a conversational AI chatbot built to assist users with hotel boo
 - OpenAI/Gemini Integration: Powered by the OpenAI API/Gemini API for natural language understanding and response generation.
 - Websockets: Streaming functionality using websockets for real-time chatbot responses.
 
-## Screenshots
-
-![hotel booking chatbot1](https://github.com/zillydev/hotel-booking-bot/assets/75972640/ddcf0a1c-d36e-413f-a9c9-c4c17b822b17)
-
-![hotel booking chatbot2](https://github.com/zillydev/hotel-booking-bot/assets/75972640/8d45018f-ac49-41e0-9f1f-019064180935)
+## Demo
+https://github.com/user-attachments/assets/4a3aed33-876a-4235-aa3e-592e5538ffed
 
 ## Installation
 
